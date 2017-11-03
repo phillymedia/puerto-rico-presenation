@@ -162,8 +162,8 @@
 
 .fullimage {
     @include BS-large {
-        margin-left: 8%;
-        margin-right: 8%;
+        // margin-left: 8%;
+        // margin-right: 8%;
     };
 
 }
@@ -236,17 +236,50 @@
 @include keyframes(FadeIn) {
     0% {
         opacity: 0;
+        -moz-transform: scale(1);
+        -o-transform: scale(1);
+       -ms-transform: scale(1);
+   -webkit-transform: scale(1);
+           transform: scale(1);
     }
+    6% { opacity: 1;}
 
     100% {
         opacity: 1;
+        -moz-transform: scale(1.1);
+        -o-transform: scale(1.1);
+       -ms-transform: scale(1.1);
+   -webkit-transform: scale(1.1);
+           transform: scale(1.1);
     }
 };
 
 .headerIntro {
     background-color: #000;
+    overflow: hidden;
+    @include mobile {
+        background: transparent;
+    };
 }
 
 .backgroundImage {
-    @include animation(FadeIn 3s ease forwards)
+    opacity: 0;
+    @include animation(FadeIn 15s linear forwards);
+    animation-delay: .8s;
+}
+
+
+.containerInsertRight {
+    margin-left: 30px;
+    margin-bottom: 40px;
+    @include mobile {
+        padding:15px 0 20px 0 !important;
+        margin: 0;
+    };
+
+    @include BS-medium {
+        margin-right: -25%;
+        margin-left: 50px;
+        margin-bottom: 40px;
+    };
 }

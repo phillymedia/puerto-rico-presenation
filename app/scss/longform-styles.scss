@@ -7,8 +7,9 @@
 }
 
 #backgroundImage-1 {
-    background-image: url("http://media.philly.com/images/dixon-230269-f-wp-content-uploads-2017-11-ssPUERTORICO02-j-1200x800.jpg");
-    background-position: center;
+    background-image: url("http://media.philly.com/images/ssPuertoRico-a1.JPG");
+    background-position: left 50% top 0;
+    background-attachment: local;
     @include tablet {
         background-position: center;
         background-size: cover;
@@ -30,7 +31,7 @@
     height: 100vh;
     min-height: 750px;
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    // background-attachment: fixed;
     background-size: cover;
     background-color: #000;
     @include tablet {
@@ -46,13 +47,13 @@
 .overlayText {
     position: absolute;
     top: auto;
-    bottom: 20%;
+    bottom: 14%;
     width: 100%;
     max-width: 900px;
     left: 50%;
     @include transform(translateX(-50%));
     margin: auto;
-    text-align: center;
+    text-align: left;
     color: #fff;
     font-family: $philly-sans;
     font-weight: 600;
@@ -460,6 +461,11 @@ p {
 
 .containerCarouselCaption {
     bottom: -70px !important;
+}
+.subscribetoday {
+    a {
+        color: white;
+    }
 }
 
 .dropcap::first-letter {
