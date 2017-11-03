@@ -20,7 +20,25 @@
         margin-left: 0;
         margin-right: 0;
     };
+    .containerPhotoCredit {
+        margin-left: 0px;
+        margin-right: 0px;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .containerPhotoCaption {
+        margin-left: 60px;
+        margin-right: 60px;
+        padding-left: 0;
+        padding-right: 0;
+        @include tablet {
+            margin-left: 0;
+            margin-right: 0;
+        };
+    }
 }
+
 
 .dg-gallery {
     margin-left: -60px;
