@@ -1,0 +1,67 @@
+{% for key, items in data %} {% if key == photoname %} {% if items[0].gallery %} {% if items[0].size == "inline" %}
+<div class="dg-gallery imagebreak">
+    <div class="image-wrapper">{% for item in items %} {% if loop.first %}
+        <div class="active gallery-img">
+            <img alt="{{item.caption}} ({{item.credit}})" data-index="{{loop.index - 1}}" class="lazy-load" src="{{item.url}}">
+        </div>{% else %}
+        <div class="gallery-img" data-index="{{loop.index - 1}}">
+            <img alt="{{item.caption}} ({{item.credit}})" data-index="{{loop.index - 1}}" src="#" data-src="{{item.url}}">
+        </div>{% endif %} {% endfor %}
+        <div class="prev arr noNext"><i class="prev arr-icon fa fa-chevron-left" aria-hidden="true"></i></div>
+        <div class="next arr"><i class="next arr-icon fa fa-chevron-right" aria-hidden="true"></i></div>
+    </div>
+    <div class="photo-info">
+        <div class="index">
+            <i class="fa fa-camera" aria-hidden="true"></i>
+            <br><span class="count">1</span> of {{items|length}}</div>
+        <div class="caption containerPhotoCaption"></div>
+    </div>
+</div>{% endif %} {% if items[0].size == "fullwidth" %}
+</div>
+</div>
+</div>
+<div class="dg-gallery imagebreak fullimage">
+    <div class="image-wrapper">{% for item in items %} {% if loop.first %}
+        <div class="active gallery-img">
+            <img alt="{{item.caption}} ({{item.credit}})" data-index="{{loop.index - 1}}" class="lazy-load" src="{{item.url}}">
+        </div>{% else %}
+        <div class="gallery-img" data-index="{{loop.index - 1}}">
+            <img alt="{{item.caption}} ({{item.credit}})" data-index="{{loop.index - 1}}" src="#" data-src="{{item.url}}">
+        </div>{% endif %} {% endfor %}
+        <div class="prev arr noNext"><i class="prev arr-icon fa fa-chevron-left" aria-hidden="true"></i></div>
+        <div class="next arr"><i class="next arr-icon fa fa-chevron-right" aria-hidden="true"></i></div>
+    </div>
+    <div class="photo-info">
+        <div class="index">
+            <i class="fa fa-camera" aria-hidden="true"></i>
+            <br><span class="count">1</span> of {{items|length}}</div>
+        <div class="caption containerPhotoCaption"></div>
+    </div>
+</div>
+<div class="container" alignment="true">
+    <div class="row" alignment="true">
+        <div class="col-md-8 col col-md-offset-2" alignment="true">{% endif %} {% endif %} {% if items|length == "8" and items.type == "photo" %} {% if items.size == "fullwidth" %}
+        </div>
+    </div>
+</div>
+<div class="col imagebreak fullimage">
+    <img class="img-fluid" src="{{items.url}}" alt="" width="100%/">
+    <div class="containerPhotoCredit" alignment="true">{{items.credit}}</div>
+    <div class="containerPhotoCaption" alignment="true">{{items.caption}}</div>
+</div>
+<div class="container" alignment="true">
+    <div class="row" alignment="true">
+        <div class="col-md-8 col col-md-offset-2" alignment="true">{% endif %} {% if items.size == "inline" %}
+            <div class="col imagebreak">
+                <img class="img-fluid" src="{{items.url}}" alt="" width="100%/">
+                <div class="containerPhotoCredit" alignment="true">{{items.credit}}</div>
+                <div class="containerPhotoCaption" alignment="true">{{items.caption}}</div>
+            </div>{% endif %} {% endif %} {% if items|length == "8" and items.type == "video" %}
+
+            <div class="col imagebreak">
+                <div class="embed-responsive embed-responsive-16by9">
+                    <iframe class="embed-responsive-item" src="{{items.url}}"></iframe>
+                </div>
+                <div class="containerPhotoCredit" alignment="true">{{items.credit}}</div>
+                <div class="containerPhotoCaption" alignment="true">{{items.caption}}</div>
+            </div> {% endif %} {% endif %} {% endfor %}

@@ -1,0 +1,122 @@
+[
+  {
+    "type": "photo",
+    "size": "fullwidth",
+    "url": "http://media.philly.com/images/1200*800/dixon-232686-f-wp-content-uploads-2017-11-884483_6c09baae273f93f-1200x800.jpg",
+    "caption": "This is a caption",
+    "credit": "DAVID SWANSON / Staff Photographer",
+    "name": "firstphoto",
+    "gallery": "",
+    "resource_id": ""
+  },
+  {
+    "type": "photo",
+    "size": "inline",
+    "url": "http://media.philly.com/images/1200*800/dixon-232686-f-wp-content-uploads-2017-11-884483_6c09baae273f93f-1200x800.jpg",
+    "caption": "This is a caption",
+    "credit": "DAVID SWANSON / Staff Photographer",
+    "name": "secondphoto",
+    "gallery": "",
+    "resource_id": ""
+  },
+  {
+    "type": "gallery",
+    "size": "inline",
+    "url": "http://media.philly.com/images/dixon-226009-e-wp-content-uploads-2017-10-883227_eb829de4edbe505.jpg",
+    "caption": "A lone reader sits on the beach in San Juan, Puerto Rico.",
+    "credit": "DAVID SWANSON / Staff Photographer",
+    "name": "gallery1",
+    "gallery": "yes",
+    "resource_id": ""
+  },
+  {
+    "type": "gallery",
+    "size": "inline",
+    "url": "http://media.philly.com/images/dixon-226009-e-wp-content-uploads-2017-10-883225_242bc431659202d.jpg",
+    "caption": "The moon rises in San Juan, Puerto Rico.",
+    "credit": "DAVID SWANSON / Staff Photographer",
+    "name": "gallery1",
+    "gallery": "yes",
+    "resource_id": ""
+  },
+  {
+    "type": "gallery",
+    "size": "inline",
+    "url": "http://media.philly.com/images/dixon-226009-e-wp-content-uploads-2017-10-883228_9785dcc811074a0.jpg",
+    "caption": "Sharon Cruz sips music and license to music at sunset in San Juan, Puerto Rico.",
+    "credit": "DAVID SWANSON / Staff Photographer",
+    "name": "gallery1",
+    "gallery": "yes",
+    "resource_id": ""
+  },
+  {
+    "type": "gallery",
+    "size": "inline",
+    "url": "http://media.philly.com/images/dixon-226009-e-wp-content-uploads-2017-10-883229_c3eddb25fb125ae.jpg",
+    "caption": "Mark and Raquel Kanian celebrate their 13th anniversary on the beach near where they were married with champagne and a kiss in San Juan, Puerto",
+    "credit": "DAVID SWANSON / Staff Photographer",
+    "name": "gallery1",
+    "gallery": "yes",
+    "resource_id": ""
+  },
+  {
+    "type": "photo",
+    "size": "inline",
+    "url": "http://media.philly.com/images/dixon-226009-e-wp-content-uploads-2017-10-884453_a22397c802ddd27-1.jpg",
+    "caption": "Inquirer staff writer Tricia L. Nadolny sits with Anna Oquendo, 71 in the Campamento de los Olvidados, ( The camp of the Forgotten ) on the Rio Arecibo in Utuado Puerto Rico, Thursday November 2, 2017. DAVID SWANSON / Staff Photographer",
+    "credit": "DAVID SWANSON / Staff Photographer",
+    "name": "thirdphoto",
+    "gallery": "",
+    "resource_id": ""
+  },
+  {
+    "type": "video",
+    "size": "inline",
+    "url": "https://www.youtube.com/embed/pU4y3Hmk2LI",
+    "caption": "This is a video",
+    "credit": "DAVID SWANSON / Staff Photographer",
+    "name": "video1",
+    "gallery": "",
+    "resource_id": ""
+  },
+  {
+    "type": "gallery",
+    "size": "fullwidth",
+    "url": "http://media.philly.com/images/dixon-226009-e-wp-content-uploads-2017-10-883227_eb829de4edbe505.jpg",
+    "caption": "A lone reader sits on the beach in San Juan, Puerto Rico.",
+    "credit": "DAVID SWANSON / Staff Photographer",
+    "name": "gallery2",
+    "gallery": "yes",
+    "resource_id": ""
+  },
+  {
+    "type": "gallery",
+    "size": "fullwidth",
+    "url": "http://media.philly.com/images/dixon-226009-e-wp-content-uploads-2017-10-883225_242bc431659202d.jpg",
+    "caption": "The moon rises in San Juan, Puerto Rico.",
+    "credit": "DAVID SWANSON / Staff Photographer",
+    "name": "gallery2",
+    "gallery": "yes",
+    "resource_id": ""
+  },
+  {
+    "type": "gallery",
+    "size": "fullwidth",
+    "url": "http://media.philly.com/images/dixon-226009-e-wp-content-uploads-2017-10-883228_9785dcc811074a0.jpg",
+    "caption": "Sharon Cruz sips music and license to music at sunset in San Juan, Puerto Rico.",
+    "credit": "DAVID SWANSON / Staff Photographer",
+    "name": "gallery2",
+    "gallery": "yes",
+    "resource_id": ""
+  },
+  {
+    "type": "gallery",
+    "size": "fullwidth",
+    "url": "http://media.philly.com/images/dixon-226009-e-wp-content-uploads-2017-10-883229_c3eddb25fb125ae.jpg",
+    "caption": "Mark and Raquel Kanian celebrate their 13th anniversary on the beach near where they were married with champagne and a kiss in San Juan, Puerto",
+    "credit": "DAVID SWANSON / Staff Photographer",
+    "name": "gallery2",
+    "gallery": "yes",
+    "resource_id": ""
+  }
+]
