@@ -3,8 +3,8 @@
     "type": "photo",
     "size": "fullwidth",
     "url": "http://media.philly.com/images/1200*800/dixon-232686-f-wp-content-uploads-2017-11-884483_6c09baae273f93f-1200x800.jpg",
-    "caption": "This is a caption",
-    "credit": "DAVID SWANSON / Staff Photographer",
+    "caption": "TESTING",
+    "credit": "TESTING",
     "name": "firstphoto",
     "gallery": "",
     "resource_id": ""
@@ -13,8 +13,8 @@
     "type": "photo",
     "size": "inline",
     "url": "http://media.philly.com/images/1200*800/dixon-232686-f-wp-content-uploads-2017-11-884483_6c09baae273f93f-1200x800.jpg",
-    "caption": "This is a caption",
-    "credit": "DAVID SWANSON / Staff Photographer",
+    "caption": "TESTING",
+    "credit": "TESTING",
     "name": "secondphoto",
     "gallery": "",
     "resource_id": ""
@@ -23,8 +23,8 @@
     "type": "gallery",
     "size": "inline",
     "url": "http://media.philly.com/images/dixon-226009-e-wp-content-uploads-2017-10-883227_eb829de4edbe505.jpg",
-    "caption": "A lone reader sits on the beach in San Juan, Puerto Rico.",
-    "credit": "DAVID SWANSON / Staff Photographer",
+    "caption": "TESTING",
+    "credit": "TESTING",
     "name": "gallery1",
     "gallery": "yes",
     "resource_id": ""
@@ -33,8 +33,8 @@
     "type": "gallery",
     "size": "inline",
     "url": "http://media.philly.com/images/dixon-226009-e-wp-content-uploads-2017-10-883225_242bc431659202d.jpg",
-    "caption": "The moon rises in San Juan, Puerto Rico.",
-    "credit": "DAVID SWANSON / Staff Photographer",
+    "caption": "TESTING",
+    "credit": "TESTING",
     "name": "gallery1",
     "gallery": "yes",
     "resource_id": ""
@@ -43,8 +43,8 @@
     "type": "gallery",
     "size": "inline",
     "url": "http://media.philly.com/images/dixon-226009-e-wp-content-uploads-2017-10-883228_9785dcc811074a0.jpg",
-    "caption": "Sharon Cruz sips music and license to music at sunset in San Juan, Puerto Rico.",
-    "credit": "DAVID SWANSON / Staff Photographer",
+    "caption": "TESTING",
+    "credit": "TESTING",
     "name": "gallery1",
     "gallery": "yes",
     "resource_id": ""
@@ -53,8 +53,8 @@
     "type": "gallery",
     "size": "inline",
     "url": "http://media.philly.com/images/dixon-226009-e-wp-content-uploads-2017-10-883229_c3eddb25fb125ae.jpg",
-    "caption": "Mark and Raquel Kanian celebrate their 13th anniversary on the beach near where they were married with champagne and a kiss in San Juan, Puerto",
-    "credit": "DAVID SWANSON / Staff Photographer",
+    "caption": "TESTING",
+    "credit": "TESTING",
     "name": "gallery1",
     "gallery": "yes",
     "resource_id": ""
@@ -63,19 +63,9 @@
     "type": "photo",
     "size": "inline",
     "url": "http://media.philly.com/images/dixon-226009-e-wp-content-uploads-2017-10-884453_a22397c802ddd27-1.jpg",
-    "caption": "Inquirer staff writer Tricia L. Nadolny sits with Anna Oquendo, 71 in the Campamento de los Olvidados, ( The camp of the Forgotten ) on the Rio Arecibo in Utuado Puerto Rico, Thursday November 2, 2017. DAVID SWANSON / Staff Photographer",
-    "credit": "DAVID SWANSON / Staff Photographer",
+    "caption": "TESTING",
+    "credit": "TESTING",
     "name": "thirdphoto",
-    "gallery": "",
-    "resource_id": ""
-  },
-  {
-    "type": "video",
-    "size": "inline",
-    "url": "https://www.youtube.com/embed/pU4y3Hmk2LI",
-    "caption": "This is a video",
-    "credit": "DAVID SWANSON / Staff Photographer",
-    "name": "video1",
     "gallery": "",
     "resource_id": ""
   },
@@ -83,8 +73,8 @@
     "type": "gallery",
     "size": "fullwidth",
     "url": "http://media.philly.com/images/dixon-226009-e-wp-content-uploads-2017-10-883227_eb829de4edbe505.jpg",
-    "caption": "A lone reader sits on the beach in San Juan, Puerto Rico.",
-    "credit": "DAVID SWANSON / Staff Photographer",
+    "caption": "TESTING",
+    "credit": "TESTING",
     "name": "gallery2",
     "gallery": "yes",
     "resource_id": ""
@@ -93,8 +83,8 @@
     "type": "gallery",
     "size": "fullwidth",
     "url": "http://media.philly.com/images/dixon-226009-e-wp-content-uploads-2017-10-883225_242bc431659202d.jpg",
-    "caption": "The moon rises in San Juan, Puerto Rico.",
-    "credit": "DAVID SWANSON / Staff Photographer",
+    "caption": "TESTING",
+    "credit": "TESTING",
     "name": "gallery2",
     "gallery": "yes",
     "resource_id": ""
@@ -103,8 +93,8 @@
     "type": "gallery",
     "size": "fullwidth",
     "url": "http://media.philly.com/images/dixon-226009-e-wp-content-uploads-2017-10-883228_9785dcc811074a0.jpg",
-    "caption": "Sharon Cruz sips music and license to music at sunset in San Juan, Puerto Rico.",
-    "credit": "DAVID SWANSON / Staff Photographer",
+    "caption": "TESTING",
+    "credit": "TESTING",
     "name": "gallery2",
     "gallery": "yes",
     "resource_id": ""
@@ -113,10 +103,230 @@
     "type": "gallery",
     "size": "fullwidth",
     "url": "http://media.philly.com/images/dixon-226009-e-wp-content-uploads-2017-10-883229_c3eddb25fb125ae.jpg",
-    "caption": "Mark and Raquel Kanian celebrate their 13th anniversary on the beach near where they were married with champagne and a kiss in San Juan, Puerto",
-    "credit": "DAVID SWANSON / Staff Photographer",
+    "caption": "TESTING",
+    "credit": "TESTING",
     "name": "gallery2",
     "gallery": "yes",
+    "resource_id": ""
+  },
+  {
+    "type": "photo",
+    "size": "inline",
+    "url": "",
+    "caption": "Quetcy Lozada food to her cousin Anna Jimenez after two weeks as a volunteer with the Salvation Army in Puerto Rico Tuesday October 31, 2017.",
+    "credit": "DAVID SWANSON / Staff Photographer",
+    "name": "PUERTORICO05-p",
+    "gallery": "",
+    "resource_id": 886308
+  },
+  {
+    "type": "photo",
+    "size": "inline",
+    "url": "",
+    "caption": "Quetcy Lozada's cousin Anna Jimenez sits under a flag honoring her husband who was a Philadelphia fireman Tuesday October 31, 2017.",
+    "credit": "DAVID SWANSON / Staff Photographer",
+    "name": "PUERTORICO05-s",
+    "gallery": "",
+    "resource_id": 886307
+  },
+  {
+    "type": "photo",
+    "size": "inline",
+    "url": "",
+    "caption": "Quetcy Lozada, Philadelphia, spends her last day of two weeks as a volunteer for the Salvation Army delivering water in Cayey, Puerto Rico, Tuesday October 31, 2017.",
+    "credit": "DAVID SWANSON / Staff Photographer",
+    "name": "PUERTORICO05-t",
+    "gallery": "",
+    "resource_id": 886306
+  },
+  {
+    "type": "photo",
+    "size": "inline",
+    "url": "",
+    "caption": "Getting a hug from Herminia Collazo, Quetcy Lozada, Philadelphia, spends her last day of two weeks as a volunteer for the Salvation Army delivering water in Cayey, Puerto Rico, Tuesday October 31, 2017.",
+    "credit": "DAVID SWANSON / Staff Photographer",
+    "name": "PUERTORICO05-u",
+    "gallery": "",
+    "resource_id": 886304
+  },
+  {
+    "type": "photo",
+    "size": "inline",
+    "url": "",
+    "caption": "Receiving thanks from Herminia Collazo, Quetcy Lozada, Philadelphia, spends her last day of two weeks as a volunteer for the Salvation Army delivering water in Cayey, Puerto Rico, Tuesday October 31, 2017.",
+    "credit": "DAVID SWANSON / Staff Photographer",
+    "name": "PUERTORICO05-e",
+    "gallery": "",
+    "resource_id": 886300
+  },
+  {
+    "type": "photo",
+    "size": "inline",
+    "url": "",
+    "caption": "Benedicta Santiago sits on her couch in Cayey, Puerto Rico, Tuesday October 31, 2017.",
+    "credit": "DAVID SWANSON / Staff Photographer",
+    "name": "PUERTORICO05-i",
+    "gallery": "",
+    "resource_id": 886299
+  },
+  {
+    "type": "photo",
+    "size": "inline",
+    "url": "",
+    "caption": "Benedicta Santiago stands on her stairs in Cayey, Puerto Rico, Tuesday October 31, 2017.",
+    "credit": "DAVID SWANSON / Staff Photographer",
+    "name": "PUERTORICO05-j",
+    "gallery": "",
+    "resource_id": 886298
+  },
+  {
+    "type": "photo",
+    "size": "inline",
+    "url": "",
+    "caption": "Quetcy Lozada take a selfie wither her uncle Chris Rioz after two weeks as a volunteer with the Salvation Army in Puerto Rico Tuesday October 31, 2017.",
+    "credit": "DAVID SWANSON / Staff Photographer",
+    "name": "PUERTORICO05-r",
+    "gallery": "",
+    "resource_id": 886297
+  },
+  {
+    "type": "photo",
+    "size": "inline",
+    "url": "",
+    "caption": "Quetcy Lozada embraces her cousin Anna Jimenez and uncle Chris Rioz  after two weeks as a volunteer with the Salvation Army in Puerto Rico Tuesday October 31, 2017.",
+    "credit": "DAVID SWANSON / Staff Photographer",
+    "name": "PUERTORICO05-q",
+    "gallery": "",
+    "resource_id": 886296
+  },
+  {
+    "type": "photo",
+    "size": "inline",
+    "url": "",
+    "caption": "Quetcy Lozada embraces her cousin Anna Jimenez after two weeks as a volunteer with the Salvation Army in Puerto Rico Tuesday October 31, 2017.",
+    "credit": "DAVID SWANSON / Staff Photographer",
+    "name": "PUERTORICO05-n",
+    "gallery": "",
+    "resource_id": 886294
+  },
+  {
+    "type": "photo",
+    "size": "inline",
+    "url": "",
+    "caption": "Quetcy Lozada embraces her cousin Anna Jimenez after two weeks as a volunteer with the Salvation Army in Puerto Rico Tuesday October 31, 2017.",
+    "credit": "DAVID SWANSON / Staff Photographer",
+    "name": "PUERTORICO05-m",
+    "gallery": "",
+    "resource_id": 886293
+  },
+  {
+    "type": "photo",
+    "size": "inline",
+    "url": "",
+    "caption": "Quetcy Lozada embraces her aunt Elisa DelValle after two weeks as a volunteer with the Salvation Army in Puerto Rico Tuesday October 31, 2017.",
+    "credit": "DAVID SWANSON / Staff Photographer",
+    "name": "PUERTORICO05-l",
+    "gallery": "",
+    "resource_id": 886292
+  },
+  {
+    "type": "photo",
+    "size": "inline",
+    "url": "",
+    "caption": "Quetcy Lozada embraces her aunt Elisa DelValle after two weeks as a volunteer with the Salvation Army in Puerto Rico Tuesday October 31, 2017.",
+    "credit": "DAVID SWANSON / Staff Photographer",
+    "name": "PUERTORICO05-k",
+    "gallery": "",
+    "resource_id": 886291
+  },
+  {
+    "type": "photo",
+    "size": "inline",
+    "url": "",
+    "caption": "Quetcy Lozada delivers water to her aunt and uncle after two weeks as a volunteer with the Salvation Army in Puerto Rico Tuesday October 31, 2017.",
+    "credit": "DAVID SWANSON / Staff Photographer",
+    "name": "PUERTORICO05-o",
+    "gallery": "",
+    "resource_id": 886257
+  },
+  {
+    "type": "photo",
+    "size": "inline",
+    "url": "",
+    "caption": "Quetcy Lozada, Philadelphia, spends her last day of two weeks as a volunteer for the Salvation Army delivering water in Cayey, Puerto Rico, Tuesday October 31, 2017.",
+    "credit": "DAVID SWANSON / Staff Photographer",
+    "name": "PUERTORICO05-h",
+    "gallery": "",
+    "resource_id": 886249
+  },
+  {
+    "type": "photo",
+    "size": "inline",
+    "url": "",
+    "caption": "Quetcy Lozada, Philadelphia, spends her last day of two weeks as a volunteer for the Salvation Army delivering water in Cayey, Puerto Rico, Tuesday October 31, 2017.",
+    "credit": "DAVID SWANSON / Staff Photographer",
+    "name": "PUERTORICO05-c",
+    "gallery": "",
+    "resource_id": 886247
+  },
+  {
+    "type": "photo",
+    "size": "inline",
+    "url": "",
+    "caption": "The flag of Puerto Rico flies from a car in Cayey, Puerto Rico, Tuesday October 31, 2017.",
+    "credit": "DAVID SWANSON / Staff Photographer",
+    "name": "PUERTORICO05-f",
+    "gallery": "",
+    "resource_id": 886241
+  },
+  {
+    "type": "photo",
+    "size": "inline",
+    "url": "",
+    "caption": "Helping with a driver's question, Quetcy Lozada, Philadelphia, spends her last day of two weeks as a volunteer for the Salvation Army delivering water in Cayey, Puerto Rico, Tuesday October 31, 2017.",
+    "credit": "DAVID SWANSON / Staff Photographer",
+    "name": "PUERTORICO05-g",
+    "gallery": "",
+    "resource_id": 886240
+  },
+  {
+    "type": "photo",
+    "size": "inline",
+    "url": "",
+    "caption": "Quetcy Lozada, Philadelphia, spends her last day of two weeks as a volunteer for the Salvation Army delivering water in Cayey, Puerto Rico, Tuesday October 31, 2017.",
+    "credit": "DAVID SWANSON / Staff Photographer",
+    "name": "PUERTORICO05-d",
+    "gallery": "",
+    "resource_id": 886239
+  },
+  {
+    "type": "photo",
+    "size": "inline",
+    "url": "",
+    "caption": "Quetcy Lozada, Philadelphia, spends her last day of two weeks as a volunteer for the Salvation Army delivering water in Cayey, Puerto Rico, Tuesday October 31, 2017.",
+    "credit": "DAVID SWANSON / Staff Photographer",
+    "name": "PUERTORICO05-b",
+    "gallery": "",
+    "resource_id": 886237
+  },
+  {
+    "type": "photo",
+    "size": "inline",
+    "url": "",
+    "caption": "Unloading a truck, Quetcy Lozada, Philadelphia, spends her last day of two weeks as a volunteer for the Salvation Army delivering water in Cayey, Puerto Rico, Tuesday October 31, 2017.",
+    "credit": "DAVID SWANSON / Staff Photographer",
+    "name": "PUERTORICO05-a",
+    "gallery": "",
+    "resource_id": 886236
+  },
+  {
+    "type": "video",
+    "size": "inline",
+    "url": "https://www.youtube.com/embed/y8Q29jWJCbs",
+    "caption": "Quetcy Lozada, Philadelphia, spends her last day of two weeks as a volunteer for the Salvation Army delivering water in Cayey, Puerto Rico",
+    "credit": "DAVID SWANSON / Staff Photographer",
+    "name": "youtubevideo",
+    "gallery": "",
     "resource_id": ""
   }
 ]
