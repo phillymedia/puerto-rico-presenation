@@ -98,5 +98,35 @@
     "name": "PUERTORICO05-bb",
     "gallery": "",
     "resource_id": ""
+  },
+  {
+    "type": "gallery",
+    "size": "inline",
+    "url": "url here",
+    "caption": "This is the first image in a test gallery",
+    "credit": "",
+    "name": "gallerytest",
+    "gallery": "yes",
+    "resource_id": ""
+  },
+  {
+    "type": "gallery",
+    "size": "inline",
+    "url": "url here",
+    "caption": "this is the second image in a test gallery",
+    "credit": "",
+    "name": "gallerytest",
+    "gallery": "yes",
+    "resource_id": ""
+  },
+  {
+    "type": "gallery",
+    "size": "inline",
+    "url": "url here",
+    "caption": "this is the third image in a test gallery",
+    "credit": "",
+    "name": "gallerytest",
+    "gallery": "yes",
+    "resource_id": ""
   }
 ]
