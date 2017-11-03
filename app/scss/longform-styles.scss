@@ -7,11 +7,12 @@
 }
 
 #backgroundImage-1 {
-    background-image: url("http://media.philly.com/images/dixon-230269-f-wp-content-uploads-2017-11-ssPUERTORICO02-j-1200x800.jpg");
-    background-position: left 50% top 79px;
+    background-image: url("http://media.philly.com/images/ssPuertoRico-a1.JPG");
+    background-position: left 50% top 0;
+    background-attachment: local;
     @include tablet {
-        background-position: left 50% top 49px;
-        background-size: contain;
+        background-position: center;
+        background-size: cover;
     }
 }
 
@@ -38,25 +39,30 @@
         min-height: 100%;
         height: auto;
         padding-bottom: percentage(800/1200)-5;
+        background-attachment: local;
+
     }
 }
 
 .overlayText {
     position: absolute;
     top: auto;
-    bottom: 20%;
+    bottom: 14%;
     width: 100%;
+    max-width: 900px;
+    left: 50%;
+    @include transform(translateX(-50%));
     margin: auto;
-    text-align: center;
+    text-align: left;
     color: #fff;
     font-family: $philly-sans;
     font-weight: 600;
-    letter-spacing: -5px;
+    letter-spacing: -3px;
     line-height: normal;
     text-shadow: 0 0 15px #000;
     font-size: 80px;
     @include tablet {
-        font-size: 68px;
+        font-size: 50px;
         padding: 0 10px;
     }
     @include mobile {
@@ -65,12 +71,14 @@
         bottom: inherit;
         color: #000;
         text-shadow: none !important;
-        padding: 30px 10px 10px;
+        padding: 30px 15px 10px;
         margin-bottom: 0.625rem;
         font-weight: 800;
         letter-spacing: -.0625rem;
-        font-size: 2.5rem;
+        font-size: 2.2rem;
         line-height: 1.05;
+        background: white;
+
     }
 }
 
@@ -95,6 +103,7 @@
     @include mobile {
         padding-top: 5px;
         padding-bottom: 8px;
+        display: none;
     }
 }
 
@@ -201,16 +210,21 @@
     line-height: 1.5em;
     font-weight: bold;
     @include mobile {
-        margin: 20px auto 15px;
+        margin: 20px auto 20px;
+        font-size: 20px;
+        line-height: 1.5rem;
     }
 }
 
 .byline {
-    line-height: 2.25em;
+    line-height: 2em;
     top: 15px;
     font-family: $philly-sans;
     color: #777;
     font-size: 16px;
+    @include mobile {
+        line-height: 1.5rem;
+    };
 }
 
 .dateline {
@@ -447,6 +461,11 @@ p {
 
 .containerCarouselCaption {
     bottom: -70px !important;
+}
+.subscribetoday {
+    a {
+        color: white;
+    }
 }
 
 .dropcap::first-letter {
